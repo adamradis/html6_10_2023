@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: crimson;
+}
+
+.okenko{
+    background-color: azure;
+    margin: 16px;
+    padding: 16px;
+    border: 1px solid azure;
+    border-radius: 15px;
+}
