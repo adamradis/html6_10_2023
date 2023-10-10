@@ -1,13 +1,21 @@
-body{
-    margin: 0;
-    padding: 0%;
+header{
     background-color: crimson;
+    margin: 0;
+    padding: 16px;
 }
 
-.okenko{
-    background-color: azure;
-    margin: 16px;
+nav{
+    margin: 0;
     padding: 16px;
-    border: 1px solid azure;
-    border-radius: 15px;
+}
+
+ul{
+    margin: 0;
+    padding: 16px;
+
+}
+
+.nadpis{
+    background-color: aquamarine;
+
 }
